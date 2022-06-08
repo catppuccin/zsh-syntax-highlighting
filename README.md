@@ -1,35 +1,44 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for App
+	Catppuccin for zsh-syntax-highlighting
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
 <p align="center">
-    <a href="https://github.com/catppuccin/template/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/template?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship"></a>
-    <a href="https://github.com/catppuccin/template/issues"><img src="https://img.shields.io/github/issues/catppuccin/template?colorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/template/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/template?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/zsh-syntax-highlighting/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/zsh-syntax-highlighting?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship"></a>
+    <a href="https://github.com/catppuccin/zsh-syntax-highlighting/issues"><img src="https://img.shields.io/github/issues/catppuccin/zsh-syntax-highlighting?colorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/zsh-syntax-highlighting/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/highlighting?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/sample.png"/>
+  <img src="https://raw.githubusercontent.com/catppuccin/zsh-syntax-highlighting/main/assets/demo.png"/>
 </p>
 
 ## Usage
 
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
+Required: [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 
-## 🙋 FAQ (optional)
+* Clone this repository locally and copy catppuccin-zsh-syntax-highlighting to your preferred location on the file system, then source the file from ~/.zshrc. Note that your must source it _before_ loading the zsh-syntax-highlighting plugin.
 
-- Q: **_"Where can I find the doc?"_**
-  A: Run `:help theme`
+Example setup:
+```bash
+git clone https://github.com/catppuccin/zsh-syntax-highlighting.git
+cd zsh-syntax-highlighting/
+cp -v catppuccin-zsh-syntax-highlighting.zsh ~/.zsh
+```
 
+Example `.zshrc`:
+```bash
+source ~/.zsh/catppuccin-zsh-syntax-highlighting.zsh
+
+# now load zsh-syntax-highlighting plugin
+```
+
+Restart zsh
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [hyperreal](https://github.com/hyperreal64)
 
 &nbsp;
 
