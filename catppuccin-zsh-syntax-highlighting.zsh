@@ -27,9 +27,9 @@ ZSH_HIGHLIGHT_STYLES[double-hyphen-option]='fg=#fab387'
 ZSH_HIGHLIGHT_STYLES[back-quoted-argument]='fg=#cba6f7'
 ## Keywords
 ## Built ins
-ZSH_HIGHLIGHT_STYLES[builtin]='fg=#94e2d5'
-ZSH_HIGHLIGHT_STYLES[reserved-word]='fg=#94e2d5'
-ZSH_HIGHLIGHT_STYLES[hashed-command]='fg=#94e2d5'
+ZSH_HIGHLIGHT_STYLES[builtin]='fg=#a6e3a1'
+ZSH_HIGHLIGHT_STYLES[reserved-word]='fg=#a6e3a1'
+ZSH_HIGHLIGHT_STYLES[hashed-command]='fg=#a6e3a1'
 ## Punctuation
 ZSH_HIGHLIGHT_STYLES[commandseparator]='fg=#f38ba8'
 ZSH_HIGHLIGHT_STYLES[command-substitution-delimiter]='fg=#cdd6f4'
