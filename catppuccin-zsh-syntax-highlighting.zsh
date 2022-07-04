@@ -15,12 +15,12 @@ ZSH_HIGHLIGHT_STYLES[comment]='fg=#585b70'
 ## Constants
 ## Entitites
 ## Functions/methods
-ZSH_HIGHLIGHT_STYLES[alias]='fg=#cba6f7'
-ZSH_HIGHLIGHT_STYLES[suffix-alias]='fg=#cba6f7'
-ZSH_HIGHLIGHT_STYLES[global-alias]='fg=#cba6f7'
-ZSH_HIGHLIGHT_STYLES[function]='fg=#cba6f7'
-ZSH_HIGHLIGHT_STYLES[command]='fg=#cba6f7'
-ZSH_HIGHLIGHT_STYLES[precommand]='fg=#cba6f7,italic'
+ZSH_HIGHLIGHT_STYLES[alias]='fg=#a6e3a1'
+ZSH_HIGHLIGHT_STYLES[suffix-alias]='fg=#a6e3a1'
+ZSH_HIGHLIGHT_STYLES[global-alias]='fg=#a6e3a1'
+ZSH_HIGHLIGHT_STYLES[function]='fg=#a6e3a1'
+ZSH_HIGHLIGHT_STYLES[command]='fg=#a6e3a1'
+ZSH_HIGHLIGHT_STYLES[precommand]='fg=#a6e3a1,italic'
 ZSH_HIGHLIGHT_STYLES[autodirectory]='fg=#fab387,italic'
 ZSH_HIGHLIGHT_STYLES[single-hyphen-option]='fg=#fab387'
 ZSH_HIGHLIGHT_STYLES[double-hyphen-option]='fg=#fab387'
