@@ -1,0 +1,16 @@
+# A Catppuccin RC file for zsh-syntax-highlighting. In beta, specs may change.
+app_name: zsh-syntax-highlighting
+binary_name: zsh
+installation:
+    location:
+        macos: ~/.zshrc
+        linux: ~/.zshrc
+    flavours:
+        all:
+            default:
+                - themes
+        mocha:
+            default:
+                - themes/catppuccin_mocha-zsh-syntax-highlighting.zsh
+    to: themes/
+    one_flavour: true
