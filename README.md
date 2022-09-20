@@ -8,7 +8,7 @@
 <p align="center">
     <a href="https://github.com/catppuccin/zsh-syntax-highlighting/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/zsh-syntax-highlighting?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
     <a href="https://github.com/catppuccin/zsh-syntax-highlighting/issues"><img src="https://img.shields.io/github/issues/catppuccin/zsh-syntax-highlighting?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/zsh-syntax-highlighting/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/highlighting?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/zsh-syntax-highlighting/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/zsh-syntax-highlighting?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -24,13 +24,13 @@ Required: [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-high
 Example setup:
 ```bash
 git clone https://github.com/catppuccin/zsh-syntax-highlighting.git
-cd zsh-syntax-highlighting/
-cp -v catppuccin-zsh-syntax-highlighting.zsh ~/.zsh
+cd zsh-syntax-highlighting/themes/
+cp -v catppuccin_mocha-zsh-syntax-highlighting.zsh ~/.zsh/
 ```
 
 Example `.zshrc`:
 ```bash
-source ~/.zsh/catppuccin-zsh-syntax-highlighting.zsh
+source ~/.zsh/catppuccin_mocha-zsh-syntax-highlighting.zsh
 
 # now load zsh-syntax-highlighting plugin
 ```
