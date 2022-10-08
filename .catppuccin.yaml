@@ -12,6 +12,15 @@ installation:
     mocha:
       default:
         - themes/catppuccin_mocha-zsh-syntax-highlighting.zsh
+    macchiato:
+      default:
+        - themes/catppuccin_macchiato-zsh-syntax-highlighting.zsh
+    frappe:
+      default:
+        - themes/catppuccin_frappe-zsh-syntax-highlighting.zsh
+    latte:
+      default:
+        - themes/catppuccin_latte-zsh-syntax-highlighting.zsh
   to: .
-  one_flavour: true 
+  one_flavour: false
   comments: "Add `source ~/.zsh/catppuccin_mocha-zsh-syntax-highlighting.zsh` in your `.zshrc` and reload zsh to load the highlighting plugin."
