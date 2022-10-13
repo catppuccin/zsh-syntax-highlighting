@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/zsh-syntax-highlighting/main/assets/demo.png"/>
+  <img src="https://raw.githubusercontent.com/catppuccin/zsh-syntax-highlighting/main/assets/screenshot.webp"/>
 </p>
 
 ## Usage
