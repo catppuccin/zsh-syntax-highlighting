@@ -1,7 +1,7 @@
 ---
 accent: mauve
 whiskers:
-  version: "2.3.0"
+  version: 2.4.0
   matrix:
     - flavor
   filename: "themes/catppuccin_{{ flavor.identifier }}-zsh-syntax-highlighting.zsh"
